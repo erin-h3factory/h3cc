@@ -1,0 +1,11 @@
+identifier: l8ebx5gee90dvfid
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: h3cc
+homeFolder: C:\Files\Dev\h3cc\h3cc-erin\source\h3cc
+distFolder: ./dist/h3cc
+outDir: C:\Files\Dev\h3cc\h3cc-erin\source\h3cc\dist\static
+handle404: ''
+allowErrorCollect: false
